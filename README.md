@@ -38,7 +38,7 @@ It is because there is no city San Diego in AR.
 
 ![no_result](./Resources/no_result.PNG)
 
-![wrong](./Resources/wong.PNG)
+![wrong](./Resources/wrong.PNG)
 
 
 ## Summary
